@@ -1,0 +1,21 @@
+{
+    "name": "RootX",
+    "symbol": "RTX",
+    "description": "RootX  token ",
+    "image": "https://raw.githubusercontent.com/advaitsoftech/RTXTOKEN/main/rtx-logo1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/advaitsoftech/RTXTOKEN/main/rtx-logo1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
+
+
+
+
+
